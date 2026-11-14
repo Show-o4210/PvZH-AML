@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-14",
+  "updated_at": "2026-11-15",
   "generated_utc": "2026-11-10T19:34:34.236928+00:00",
   "product_context": {
     "scope": "Versioned references documented in this catalog. The maintained_revision_window records the window at catalog creation.",
@@ -103,8 +103,8 @@
     }
   },
   "coverage": {
-    "eligible_markdown_count": 260,
-    "indexed_markdown_count": 260,
+    "eligible_markdown_count": 263,
+    "indexed_markdown_count": 263,
     "missing": [],
     "baseline_markdown_count": 248,
     "previously_without_inbound_md_link_count": 15,
@@ -209,6 +209,18 @@
       "title": "24.启动器工作台与手机编辑",
       "anchor": "chapter-24",
       "count": 7
+    },
+    {
+      "id": "25.游戏语言资源与双包分发",
+      "title": "25.游戏语言资源与双包分发",
+      "anchor": "chapter-25",
+      "count": 1
+    },
+    {
+      "id": "26.Unity整卡调色的依赖排查",
+      "title": "26.Unity整卡调色的依赖排查",
+      "anchor": "chapter-26",
+      "count": 2
     },
     {
       "id": "00.游戏介绍",
@@ -2641,6 +2653,50 @@
         "r-2-27",
         "r-2-28",
         "r-2-29"
+      ],
+      "previously_without_inbound_md_link": false
+    },
+    {
+      "path": "Library-docs/25.游戏语言资源与双包分发/README.md",
+      "title": "25 · 游戏语言资源与双包分发",
+      "group": "25.游戏语言资源与双包分发",
+      "scope": "current_product",
+      "scope_label": "版本验收与排障",
+      "applicability": "R75／R76 越南语复拷、官方 11066、两包首装与覆盖验收",
+      "revision_mentions": [
+        "R75",
+        "R76"
+      ],
+      "previously_without_inbound_md_link": false
+    },
+    {
+      "path": "Library-docs/26.Unity整卡调色的依赖排查/01.测试卡表触发牌组清理.md",
+      "title": "测试卡表触发牌组清理",
+      "group": "26.Unity整卡调色的依赖排查",
+      "scope": "current_product",
+      "scope_label": "版本验收与排障",
+      "applicability": "R66 整表覆盖触发牌组与库存清理、事务恢复和保留卡牌身份复验",
+      "revision_mentions": [
+        "R66"
+      ],
+      "previously_without_inbound_md_link": false
+    },
+    {
+      "path": "Library-docs/26.Unity整卡调色的依赖排查/README.md",
+      "title": "26 · Unity 整卡调色的依赖排查",
+      "group": "26.Unity整卡调色的依赖排查",
+      "scope": "current_product",
+      "scope_label": "版本验收与排障",
+      "applicability": "R65–R72 共享动画、外部 Sprite、ETC2 与材质依赖排查和复验",
+      "revision_mentions": [
+        "R65",
+        "R66",
+        "R67",
+        "R68",
+        "R69",
+        "R70",
+        "R71",
+        "R72"
       ],
       "previously_without_inbound_md_link": false
     },
