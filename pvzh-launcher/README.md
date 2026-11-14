@@ -12,6 +12,10 @@ PVZH 启动器是《植物大战僵尸：英雄》的第三方 Android Mod 工�
 
 [中文](releases/v4/changelog-zh.json) · [English](releases/v4/changelog-en.json)
 
+## R74–R77 开发记录
+
+R74 改进底栏、语言入口和双语更新通知。R75 在选择或重选语言时重新复制对应的游戏语言资源。R76 在 Android ARM64 上试用全量版与标准版。R77 的 Android 显示名为 **PvZH AM**，桌面图标带 **AM** 角标。大小、首次下载、覆盖安装和实机测试范围见[开发候选验收](../Library-docs/24.启动器工作台与手机编辑/05.当前版本能力.md#r74-r77-development)。
+
 ## 翻译修正
 
 翻译来源、已知问题和 R73 RC1 编辑器采纳结果见[翻译修正交接包](translation-fixes/README.md)。
@@ -39,6 +43,10 @@ R44 收录参考越南语 LawnStrings 整理的文案和卡名，以及后续英
 PvZH AM (Advanced Modding) is a third-party Android Mod workbench for *Plants vs. Zombies Heroes*. The **r-2-64 RC1** development catalogs cover the launcher, in-game floating tools, and stock card names in [Simplified Chinese](i18n/r-2-64/zh-CN/), [English](i18n/r-2-64/en-US/), and [Vietnamese](i18n/r-2-64/vi-VN/). The r-2-44 catalogs retain community edits in [English](i18n/r-2-44/en-US/) and reviewed wording and card names in [Vietnamese](i18n/r-2-44/vi-VN/).
 
 The [v4 guide](../Library-docs/24.启动器工作台与手机编辑/05.当前版本能力.md#v4) (in Chinese) covers the mobile level editor, card class and rarity, stock artwork restoration, and swipe navigation. See the [English changelog](releases/v4/changelog-en.json) for release details.
+
+### R74–R77 development notes
+
+R74 updates bottom navigation, the language picker, and bilingual update notices. R75 recopies the selected game language assets whenever the language is selected again or changed. R76 tests two ARM64 packages. Full includes all 2,880 bundles from official manifest 11066. Standard includes 61 and downloads the rest on first setup. Both passed fresh setup, Vietnamese string and font loading in the original engine, and in-place switching on a Pixel 6. R77 displays **PvZH AM** in Android and adds an **AM** ribbon to the icon. Tapping the icon opened the launcher on the test device. The [development test record](../Library-docs/24.启动器工作台与手机编辑/05.当前版本能力.md#r74-r77-development) (in Chinese) lists the tested scope and timings.
 
 For translation feedback, include the locale, file, and JSON key or card GUID. Keep placeholders such as `{0}` and in-game markup intact.
 
