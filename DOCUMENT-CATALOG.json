@@ -3373,7 +3373,7 @@
       "group": "pvzh-launcher",
       "scope": "recent_stage",
       "scope_label": "近期阶段",
-      "applicability": "R73 RC1 的 7 个离线美术和编辑器辅助模块及非官方 Mod 声明",
+      "applicability": "R73 RC1 离线源码，涵盖 ZIP 校验、卡牌与关卡编辑、Unity 美术读取及非官方 Mod 声明",
       "revision_mentions": [
         "r-2-73"
       ],
