@@ -55,4 +55,6 @@ The remaining additions extract R73 logic from `NativeManualArchive`, `LauncherS
 
 ## Source terms
 
-The AM Java files in this preview are available for public review. The team has yet to choose general terms for reuse, modification or redistribution of AM source code. Rights remain with the respective holders, subject to applicable law and the platform terms. The UnityPy notice applies to the TypeTree common-string material derived from UnityPy. [Repository license scopes](../../../LICENSES.md)
+The original PvZH AM Java source and tests in this preview are covered by the [source-preview licensing policy](../README.md) under **GPL-3.0-or-later**. See [COPYING](../COPYING) for the full GPLv3 text. `NativeArtworkTypeStrings.java` is excluded from this GPL grant; the common strings derived from UnityPy retain their [MIT notice](UNITYPY-LICENSE.txt). The original game, APK distributions, and other third-party materials are not covered by this grant.
+
+本版本适用上一级的[源码预览授权范围](../README.md)。UnityPy 类型字符串表保留其原有声明。

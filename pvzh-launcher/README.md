@@ -6,7 +6,7 @@ PVZH 启动器是《植物大战僵尸：英雄》的第三方 Android Mod 工�
 
 ## R73 RC1 源码预览
 
-源码预览包含 7 个原样公开的离线美术与编辑器辅助模块，以及从 R73 RC1 提取的 ZIP 校验、卡牌与关卡编辑、Unity 美术读取。PvZH AM 是面向国际版《植物大战僵尸：英雄》的非官方社区 Mod 项目。编译方法、功能范围及 EA 政策说明见[源码预览](source-preview/r73-rc1/README.md)。
+源码预览包含 7 个原样公开的离线美术与编辑器辅助模块，以及从 R73 RC1 提取的 ZIP 校验、卡牌与关卡编辑、Unity 美术读取。PvZH AM 是面向国际版《植物大战僵尸：英雄》的非官方社区 Mod 项目。编译方法、功能范围及 EA 政策说明见[源码预览](source-preview/r73-rc1/README.md)。当前及后续公开源码预览的许可见[源码预览授权](source-preview/README.md)。
 
 ## v4 更新日志
 
